@@ -1,0 +1,10 @@
+{
+  "appName": "workflows",
+  "userGivenName": "workflows",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/workflows/overlays/prod",
+  "srcRepoURL": "https://github.com/tommy1199/argocd-autopilot-demo.git",
+  "srcTargetRevision": "",
+  "labels": null
+}
